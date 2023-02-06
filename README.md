@@ -12,7 +12,7 @@ This project aims to build a neural network to predict taxi fares based on the g
 - Seaborn
 
 ## Parts
-1. Part A: Create a baseline Neural network with 2 hidden layers, each with 16 and 8 neurons respectively, Sigmoid activation, and batch size of 128 for Gradient Descent. (20 marks)
+1. Part A: Create a baseline Neural network with 2 hidden layers, each with 16 and 8 neurons respectively, Sigmoid activation, and batch size of 128 for Gradient Descent.
 2. Part B: Experiment with number of layers and neurons per layer.
 3. Part C: Experiment with activation functions.
 4. Part D: Experiment with regularization techniques: Early stopping and Dropout rate. 
