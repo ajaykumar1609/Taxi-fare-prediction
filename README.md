@@ -22,7 +22,7 @@ This project aims to build a neural network to predict taxi fares based on the g
 The results of each part will be tabulated with 95% confidence intervals of each of the 3 metrics (MSE, MAE, MAPE) based on at least 5 experiments on validation. The best architecture and hyperparameters will be reported and used to generate predictions for the test set.
 ## Files
 
-- `stock_prediction.ipynb`: Jupyter Notebook containing the code for training and evaluating the Neural network
+- `Taxi-price-prediction.ipynb`: Jupyter Notebook containing the code for training and evaluating the Neural network
 - `data`: https://www.kaggle.com/competitions/new-york-city-taxi-fare-prediction
 ## Usage
 1. Clone the repository ---> git clone https://github.com/[username]/taxi_fare_prediction.git
